@@ -1,0 +1,296 @@
+/*
+Theme Name: quanca
+Theme URI:
+Author:MD Rabiul Islam (Asa)
+Author URI:mdrabiulislamasa.com
+Description: 
+Version: 1.0
+License: 
+License URI: 
+Tags: 
+Text Domain: quanca
+*/
+
+
+.sidebar .widget * {
+    list-style: none !important;
+}
+span.screen-reader-text {
+    display: none;
+}
+.white-color.light.wow.fade {
+    color: white !important;
+}
+.logo a{
+    color: #f42828 !important;
+    font-size: xx-large;
+}
+
+#footer-menu-id ul{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#footer-menu-id ul li{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.tab-wrapper .tab-item .tab-inner figure img {
+    width: 100%;
+    height: 100% !important;
+}
+.tab-wrapper .tab-item .tab-inner {
+    width: 100%;
+    display: flex;
+    position: relative;
+    background: #0d0d0d;
+    height: 100% !important;
+}
+.service-box{height:340px;}
+.wow.reveal-effect{ height:100% !important;}
+.wow.reveal-effect img{ height:100% !important;}
+.member-box figure {
+    width: 100% !important;
+}
+.sidebar_img{
+    height: 160px !important;
+}
+.author_name{
+    color:white !important;
+}
+#img_sizing {
+    height: 370px !important;
+}
+.gallery_a{
+    width:30% !important;
+    height: 250px !important;
+    float: left !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.gallery_a img{
+    width:100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+@media only screen and (max-width: 991px) {
+    .gallery_a{
+        width:47% !important;
+    }
+  }
+@media only screen and (max-width: 570px) {
+    #slide_height{height:480px !important;}
+    #test_image{
+        height: 150px !important;
+        width: 150px !important;
+    }
+  }
+@media only screen and (max-width: 800px) {
+    #slide_height{height:550px !important;}
+  }
+@media only screen and (max-width: 1050px) {
+    #slide_height{height:680px !important;}
+  }
+@media only screen and (max-width: 770px) {
+    .gallery_a{
+        width:95% !important;
+    }
+    #blog-img{
+        height:300px !important;
+    }
+  }
+.height_control {
+    height: 100% !important;
+}
+
+#training_class_img{
+    height:400px !important;
+}
+#blog-img{
+    height:380px !important;
+}
+.btn-height-fix{
+    overflow: hidden;
+}
+#time_bg{
+    width:100% !important;
+}
+#slide_height_two{
+    height:100% !important;
+}
+.wp-caption{padding:0;}
+.wp-caption-text{padding:0;}
+.gallery-caption{padding:0;}
+.bypostauthor{padding:0;}
+.alignright{padding:0;}
+.alignleft{padding:0;}
+.alignleft{padding:0;}
+
+.ds_store{padding:0;}
+
+div#test-background\ padding {
+    background: none !important;
+}
+#class-thumbnail img{
+    height:440px !important;
+}
+
+.be-comment-block {
+    margin-bottom: 50px !important;
+    border: 1px solid #edeff2;
+    border-radius: 2px;
+    padding: 50px 70px;
+    border:1px solid #ffffff;
+}
+
+.comments-title {
+    font-size: 16px;
+    color: #262626;
+    margin-bottom: 15px;
+    font-family: 'Conv_helveticaneuecyr-bold';
+}
+
+.be-img-comment {
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.be-ava-comment {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.be-comment-content {
+    margin-left: 80px;
+}
+
+.be-comment-content span {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 15px;
+}
+
+.be-comment-name {
+    font-size: 25px;
+    font-family: 'Conv_helveticaneuecyr-bold';
+}
+
+.be-comment-content a {
+    color: #383b43;
+}
+
+.be-comment-content span {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 15px;
+}
+
+.be-comment-time {
+    text-align: right;
+}
+
+.be-comment-time {
+    font-size: 11px;
+    color: #b4b7c1;
+}
+
+.be-comment-text {
+    font-size: 13px;
+    line-height: 18px;
+    color: #7a8192;
+    display: block;
+    background: #f6f6f7;
+    border: 1px solid #edeff2;
+    padding: 15px 20px 20px 20px;
+    width:100% !important;
+}
+
+.form-group.fl_icon .icon {
+    position: absolute;
+    top: 1px;
+    left: 16px;
+    width: 48px;
+    height: 48px;
+    background: #f6f6f7;
+    color: #b5b8c2;
+    text-align: center;
+    line-height: 50px;
+    -webkit-border-top-left-radius: 2px;
+    -webkit-border-bottom-left-radius: 2px;
+    -moz-border-radius-topleft: 2px;
+    -moz-border-radius-bottomleft: 2px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+.form-group .form-input {
+    font-size: 13px;
+    line-height: 50px;
+    font-weight: 400;
+    color: #b4b7c1;
+    width: 100%;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid #edeff2;
+    border-radius: 3px;
+}
+
+.form-group.fl_icon .form-input {
+    padding-left: 70px;
+}
+
+.form-group textarea.form-input {
+    height: 150px;
+}
+.submit-button{
+    color:white;
+    background-color:#f42828 !important;
+    background-color:#f42828 !important;
+}
+.be-comment-name a{
+    color:#f42828 !important;
+}
+a.readmore{
+    color:#f42828 !important;
+}
+.headersingle{
+    background-color: #0d0d0d !important;
+    height:150px !important;
+    
+}
+.single-section{
+    margin-top:100px !important;
+}
+.single-img>.attachment-custom-size.size-custom-size.wp-post-image{
+    height: 450px !important;
+}
+#archive_img img {
+    height: 500px !important;
+}
+#padding{
+    padding:0px !important;
+}
+
+#test_image{
+    height: 200px !important;
+    width: 200px !important;
+}
+#header-logo {
+    width: 20% !important;
+}
+
+#about_sec_bg{
+    background-size: cover;
+}
+#about_div_bg{
+    background:none !important;
+}
+#eror_sec_bg{
+    margin-top: 50px;
+    height:500px;
+    background-size: cover;
+}
